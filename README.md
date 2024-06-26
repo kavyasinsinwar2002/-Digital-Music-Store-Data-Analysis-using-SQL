@@ -12,3 +12,4 @@ This project is for beginners and will teach you how to analyze the music playli
 Schema- Music Store Database  
 ![MusicDatabaseSchema](https://user-images.githubusercontent.com/112153548/213707717-bfc9f479-52d9-407b-99e1-e94db7ae10a3.png)
 # -Digital-Music-Store-Data-Analysis-using-SQL
+# -Digital-Music-Store-Data-Analysis-using-SQL
